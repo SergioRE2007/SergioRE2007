@@ -159,13 +159,14 @@ Me apasiona el desarrollo de software y especialmente la **creación de videojue
 
 <br>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SergioRE2007&theme=dark&background=0d0d0d&border=2d2d44&stroke=2d2d44&ring=e0e0e0&fire=ffffff&currStreakNum=b0b0b0&sideNums=b0b0b0&currStreakLabel=999999&sideLabels=999999&dates=666666"/>
+<img height="170" src="https://streak-stats.demolab.com?user=SergioRE2007&theme=dark&background=0d0d0d&border=2d2d44&stroke=2d2d44&ring=e0e0e0&fire=ffffff&currStreakNum=b0b0b0&sideNums=b0b0b0&currStreakLabel=999999&sideLabels=999999&dates=666666"/>
 
 <br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioRE2007&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=b0b0b0&line=e0e0e0&point=ffffff&area_color=2d2d44&area=true" alt="Contribution Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioRE2007&bg_color=0d0d0d&color=b0b0b0&line=e0e0e0&point=ffffff&area_color=2d2d44&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
+
 
 ---
 
