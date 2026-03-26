@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2d44,100:0f0f1a&height=200&section=header&text=Sergio%20RE&fontSize=58&fontColor=e0e0e0&fontAlignY=35&desc=Desarrollador%20·%20Estudiante%20DAM%20·%20Game%20Dev&descSize=16&descAlignY=56&descColor=999999)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2d44,100:0f0f1a&height=200&section=header&text=Sergio%20Rodr%C3%ADguez%20Espinosa&fontSize=46&fontColor=e0e0e0&fontAlignY=35&desc=Desarrollador%20%C2%B7%20Estudiante%20DAM%20%C2%B7%20Game%20Dev&descSize=16&descAlignY=56&descColor=999999)
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     EFECTO TYPING SVG                         -->
