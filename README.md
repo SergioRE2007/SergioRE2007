@@ -154,8 +154,8 @@ Me apasiona el desarrollo de software y especialmente la **creación de videojue
 
 ### 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SergioRE2007&show_icons=true&theme=dark&title_color=e0e0e0&icon_color=b0b0b0&text_color=999999&bg_color=0d0d0d&border_color=2d2d44&hide_border=false&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRE2007&layout=compact&theme=dark&title_color=e0e0e0&text_color=999999&bg_color=0d0d0d&border_color=2d2d44&hide_border=false" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=SergioRE2007&show_icons=true&theme=dark&title_color=e0e0e0&icon_color=b0b0b0&text_color=999999&bg_color=0d0d0d&border_color=2d2d44&hide_border=false&count_private=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SergioRE2007&layout=compact&theme=dark&title_color=e0e0e0&text_color=999999&bg_color=0d0d0d&border_color=2d2d44&hide_border=false" />
 
 <br>
 
@@ -166,7 +166,6 @@ Me apasiona el desarrollo de software y especialmente la **creación de videojue
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioRE2007&bg_color=0d0d0d&color=b0b0b0&line=e0e0e0&point=ffffff&area_color=2d2d44&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
-
 
 ---
 
