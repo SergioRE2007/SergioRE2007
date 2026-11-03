@@ -221,7 +221,11 @@ Programo a diario **con IA**: yo diseño cada proyecto, lo divido en tareas y lo
 
 <br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioRE2007&bg_color=0d0d0d&color=b0b0b0&line=e0e0e0&point=ffffff&area_color=2d2d44&area=true&hide_border=true" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SergioRE2007/SergioRE2007/output/serpiente-oscura.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SergioRE2007/SergioRE2007/output/serpiente.svg" />
+  <img width="90%" alt="Serpiente que se come mis contribuciones de GitHub" src="https://raw.githubusercontent.com/SergioRE2007/SergioRE2007/output/serpiente.svg" />
+</picture>
 
 </div>
 

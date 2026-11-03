@@ -1,0 +1,31 @@
+# Dibuja cada día la serpiente que se come mis contribuciones de GitHub
+# y la sube a la rama "output", de donde la coge el README.
+name: Serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generar:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/serpiente.svg?color_snake=#8b1a1a&color_dots=#ebedf0,#c9c9d6,#9a9ab0,#6b6b85,#2d2d44
+            dist/serpiente-oscura.svg?color_snake=#b3261e&color_dots=#1a1a2e,#2d2d44,#5f5f7a,#9a9ab0,#e0e0e0
+
+      - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
