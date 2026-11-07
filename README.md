@@ -33,7 +33,7 @@ Lo que más me gusta es crear **videojuegos**. Ya he publicado mi primer juego e
 Programo a diario **con IA**: yo diseño cada proyecto, lo divido en tareas y lo pruebo a fondo, y los agentes (Claude Code, Codex, Cursor) escriben el código.
 
 - 🔎 **Busco prácticas de DAM** para el curso 2026/27, con ganas de quedarme después como desarrollador junior.
-- 🛠️ **Ahora mismo:** puliendo el juego de terror y preparando Reelómetro para Google Play.
+- 🛠️ **Ahora mismo:** puliendo el juego de terror y preparando Reelometer para Google Play.
 - 🗣️ Español nativo · Inglés B1 · Italiano A2
 
 ---
@@ -75,14 +75,14 @@ Programo a diario **con IA**: yo diseño cada proyecto, lo divido en tareas y lo
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3>📱 Reelómetro</h3>
+      <h3>📱 Reelometer</h3>
       <img src="https://img.shields.io/badge/ANDROID_%C2%B7_v1.0-1a1a2e?style=flat-square"/>
-      <p>El marcador de tus vídeos cortos: cuenta lo que ves en TikTok, Reels y Shorts (cuántos, cuánto tiempo, de qué temas y de quién). Todo se queda en el móvil: la app ni siquiera tiene permiso de Internet. Incluye un resumen mensual para compartir, widget y 402 tests.</p>
+      <p>El marcador de tus vídeos cortos: cuenta lo que ves en TikTok, Reels y Shorts (cuántos, cuánto tiempo, de qué temas y de quién). Todo se queda en el móvil: la app ni siquiera tiene permiso de Internet. Incluye un resumen mensual para compartir, widget, cinco idiomas y más de 850 tests.</p>
       <img src="https://img.shields.io/badge/Kotlin-1a1a2e?style=flat-square&logo=kotlin&logoColor=b0b0b0"/>
       <img src="https://img.shields.io/badge/Jetpack_Compose-1a1a2e?style=flat-square&logo=jetpackcompose&logoColor=b0b0b0"/>
       <img src="https://img.shields.io/badge/Android-1a1a2e?style=flat-square&logo=android&logoColor=b0b0b0"/>
       <br><br>
-      <a href="https://github.com/SergioRE2007/reelometro"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/SergioRE2007/reelometer"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td align="center" valign="top" width="50%">
       <h3>🎮 Dungeon Tide</h3>
@@ -111,7 +111,7 @@ Programo a diario **con IA**: yo diseño cada proyecto, lo divido en tareas y lo
 - Cada proyecto tiene su `CLAUDE.md` con la arquitectura, las normas y lo aprendido en proyectos anteriores, para que los agentes no repitan errores.
 - Las tareas van en orden en un `TASKS.md`, con una rama y un pull request por funcionalidad.
 - Reparto el trabajo entre varios agentes a la vez, cada uno con sus archivos, y un agente revisor repasa cada cambio antes de juntarlo.
-- Nada se da por hecho sin probarlo: tests automáticos (402 en Reelómetro, regresiones con Lune en Roblox) y pruebas reales en Roblox Studio o en el emulador.
+- Nada se da por hecho sin probarlo: tests automáticos (más de 850 en Reelometer, regresiones con Lune en Roblox) y pruebas reales en Roblox Studio o en el emulador.
 - Creo skills y plugins para adaptar los agentes a cada proyecto.
 
 ---
